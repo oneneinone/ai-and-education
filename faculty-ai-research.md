@@ -54,3 +54,33 @@ Added passages and locators to 88 earlier IDs. The Auckland forum demonstration 
 Cambridge's full examiner section was readable in the current official index. Direct access and the earlier replay remain unresolved from this connection. Edinburgh's Registry scope text corroborates FA-0155, with the May appendix and §8.6 separately listed as unresolved. Source-version links and earlier capture history are retained.
 
 The Deakin policy establishes an authorization pathway for teaching with institutional information in public models (FA-0395). The database now has 388 distinct findings, including 349 with original passages.
+
+## Passage and archive coverage, 21 November 2026
+
+The evidence table contains exact source passages for 387 of 388 distinct finding IDs. All 242 original finding IDs and citations remain in the faculty database. FA-0157 remains an unresolved earlier finding. The May Edinburgh committee paper returned HTTP 403, and the adopted policy link requires access. The readable March draft concerns a different version.
+
+The original database records archive replay links for 108 distinct IDs. The [dated excerpt file](source-captures/2026-11-21.md) preserves short passages linked to the underlying pages, PDFs or editions. Full-document captures for the other findings and independent rechecks of older replay links remain open. Some originals were readable through the official search index or an accessible author or publisher edition. Those routes are identified in the evidence table.
+
+Brown FA-0018 anticipates no AI grading and says course staff would explain any exception. This qualifies the earlier shorthand prohibition. Southampton FA-0218 and FA-0219 cite the accessible publisher's edition of the study. Warwick FA-0182 cites the same author's chapter after retirement of the original blog.
+
+## Comparison by assessment task and stated purpose
+
+The denominators below are the numbers of institutions compared for each activity. An institution can appear more than once. These comparisons describe the cited decisions and do not estimate prevalence across the cohort.
+
+| Activity | Comparison |
+|---|---|
+| Revising examiner-authored feedback · 2 institutions | Cambridge permits consolidating personal notes and rephrasing comments while prohibiting GenAI analysis of submissions and feedback written from them (FA-0083, FA-0084). Monash's teaching example discusses polishing staff notes alongside separate conditions for uploading student work (FA-0388, FA-0045). |
+| Processing actual submissions · 3 institutions | Aalto limits transfers of student work to approved systems and links its register (FA-0270, FA-0271). UBC calls for use-specific approval and a privacy impact assessment for feedback or marking. Its public register covers required student use (FA-0028, FA-0380). Penn distinguishes licensed handling of protected records from the Copilot Chat grading restriction reported in its 2025 continuity memo (FA-0391, FA-0014). |
+| Suggesting and approving marks · 3 institutions | NUS requires approval for the deployment and specifies an exception to human review for objective or closed-ended marking, with spot checks for reliable automated output (FA-0253, FA-0254, FA-0255, FA-0280). ETH's Rectorate pilot gives instructors the final grade decision and includes independent human rescoring of vetoed parts (FA-0090, FA-0091, FA-0143). Alberta's opt-in pilot lets instructors activate numeric suggestions and requires human release (FA-0387, FA-0227). |
+| Using AI detection · 3 institutions | UCD's faculty guidelines prohibit detection tools (FA-0262). McGill's Code bars detector output as sole evidence of plagiarism (FA-0381). Sydney's integrity process permits considering a Turnitin AI score together with other evidence (FA-0389). |
+
+| Stated purpose | How it appears in practice |
+|---|---|
+| Academic responsibility · 3 institutions | NUS specifies instructor final responsibility, Politecnico di Milano reserves evaluation and assignment of results for academic staff, and ETH reserves pilot final grades for course instructors. The duties appear in a policy, a decree and a pilot instruction, respectively (FA-0253, FA-0349, FA-0090). |
+| Transparency and trust · 3 institutions | LSE identifies transparency, trust and student partnership as institutional values. UCD requires disclosure and review of AI-assisted feedback. Purdue's Senate provision calls for syllabus disclosure that includes instructor grading (FA-0351, FA-0260, FA-0266). |
+| Privacy and copyright · 3 institutions | Aalto connects its service limit to privacy and copyright. Lund requires specific approval for sensitive-data use. Universiti Malaya limits public-platform transfers of thesis work before assessment is complete and applies consent or exception conditions afterward (FA-0270, FA-0337, FA-0333). |
+| Feedback quality and marking effort · 3 institutions | Birmingham connects assistance to timely, high-quality feedback and requires approval. PolyU identifies repeat work and consistency issues and requires human finalization. Michigan reports using score comparisons to identify variation and clarify criteria (FA-0281, FA-0276, FA-0376). |
+
+Two of the six outside-cutoff pioneers illuminate different safeguards. UCT's course documentation records student regrade requests following human application of rubrics to grouped answers (FA-0354). The separate UCT framework records discontinuation of the Turnitin AI score, citing error and harm to trust (FA-0353). Stellenbosch's interim guidance bars detector output as a basis for penalties (FA-0355). The [coverage roster](faculty-ai-coverage.csv) records all six pioneer qualifications.
+
+Student recourse also differs by decision. The three examples here cover ETH's independent rescoring after a veto, Alberta's express retention of ordinary grade appeals during the feedback pilot, and Yonsei's student explanation and instructor review before a decision based in part on AI-related evidence (FA-0091, FA-0143, FA-0227, FA-0305). ETH's reported changes describe the 2,641 vetoed items that were rescored, out of 28,559 total problem-part scores. They do not estimate errors in the unvetoed items.

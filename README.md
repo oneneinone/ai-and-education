@@ -2,6 +2,20 @@
 
 A source-linked comparison of university rules for faculty assessment and examination conduct. Use the [Word report](faculty-ai-assessment.docx) for a five-page briefing, the overview tables for a quick comparison, and the CSVs to inspect the wording, authority and limits of each finding.
 
+## QS 2027 evidence base
+
+The current faculty database has **388 distinct finding IDs**, with original-source passages and locators for **387**. The ledger records first-pass search outcomes for all **102** QS universities ranked 100 or better and all **eight** Ivies. The roster separately identifies six documented outside-cutoff pioneers.
+
+| Resource | What it records |
+|---|---|
+| [Faculty database](faculty-ai-assessment.csv) | Findings and preserved source history |
+| [Evidence](faculty-ai-evidence.csv) | Exact passages, translations, authority, scope and use conditions |
+| [Coverage](faculty-ai-coverage.csv) | Cohort, ties, Ivy membership and pioneer qualifications |
+| [Search ledger](faculty-ai-search-ledger.csv) | Sources searched, dated outcomes and unresolved follow-ups |
+| [Research comparison](faculty-ai-research.md) | Assessment tasks, decision authority and stated purposes |
+
+The report and tables below describe the original 19 November 2026 release. Later research is in the linked database and ledger.
+
 | Resource | Contents |
 |---|---|
 | [Faculty AI assessment](faculty-ai-assessment.csv) | 242 findings across 75 university or campus entries. |
