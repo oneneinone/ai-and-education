@@ -4,12 +4,13 @@ A source-linked comparison of university rules for faculty assessment and examin
 
 ## QS 2027 evidence base
 
-The current faculty database has **388 distinct finding IDs**, with original-source passages and locators for **387**. The ledger records first-pass search outcomes for all **102** QS universities ranked 100 or better and all **eight** Ivies. The roster separately identifies six documented outside-cutoff pioneers.
+The current faculty database has **389 distinct finding IDs**, with original-source passages and locators for **388**. The ledger records first-pass search outcomes for all **102** QS universities ranked 100 or better and all **eight** Ivies. The roster separately identifies six documented outside-cutoff pioneers.
 
 | Resource | What it records |
 |---|---|
 | [Faculty database](faculty-ai-assessment.csv) | Findings and preserved source history |
 | [Evidence](faculty-ai-evidence.csv) | Exact passages, translations, authority, scope and use conditions |
+| [Stated principles](faculty-ai-principles.csv) | Original-language purposes with practical findings and thematic grouping |
 | [Coverage](faculty-ai-coverage.csv) | Cohort, ties, Ivy membership and pioneer qualifications |
 | [Search ledger](faculty-ai-search-ledger.csv) | Sources searched, dated outcomes and unresolved follow-ups |
 | [Research comparison](faculty-ai-research.md) | Assessment tasks, decision authority and stated purposes |

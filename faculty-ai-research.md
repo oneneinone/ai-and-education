@@ -84,3 +84,26 @@ The denominators below are the numbers of institutions compared for each activit
 Two of the six outside-cutoff pioneers illuminate different safeguards. UCT's course documentation records student regrade requests following human application of rubrics to grouped answers (FA-0354). The separate UCT framework records discontinuation of the Turnitin AI score, citing error and harm to trust (FA-0353). Stellenbosch's interim guidance bars detector output as a basis for penalties (FA-0355). The [coverage roster](faculty-ai-coverage.csv) records all six pioneer qualifications.
 
 Student recourse also differs by decision. The three examples here cover ETH's independent rescoring after a veto, Alberta's express retention of ordinary grade appeals during the feedback pilot, and Yonsei's student explanation and instructor review before a decision based in part on AI-related evidence (FA-0091, FA-0143, FA-0227, FA-0305). ETH's reported changes describe the 2,641 vetoed items that were rescored, out of 28,559 total problem-part scores. They do not estimate errors in the unvetoed items.
+
+## Stated principles in institutional language
+
+The [principles table](faculty-ai-principles.csv) preserves 76 original-language passages from 21 documents at 20 institutions. Each row identifies the statement's own source and locator and links to the related finding. English translations accompany Finnish, French, Italian, Korean, Simplified Chinese, Spanish and Swedish excerpts. The table marks cases where an institution's principles and the linked assessment guidance are separate documents, such as at ANU. A statement of principle does not establish a particular assessment permission.
+
+The table below counts institutions with at least one excerpt assigned to each theme. It covers these 20 institutions, including 17 in the ranked cohort and three outside-cutoff pioneers. The themes can overlap. Counts describe the selected texts and do not estimate the prevalence of the principles in the overall cohort.
+
+| Theme | Ranked institutions, out of 17 | Pioneers, out of 3 | Examples |
+|---|---:|---:|---|
+| Educational purpose | 12 | 2 | McGill prioritizes the quality of the learning experience. Birmingham identifies unmet learning needs as a purpose for faster feedback, with approval and academic review (FA-0226, FA-0281, FA-0282). |
+| Human responsibility | 8 | 2 | Duke requires independent professional judgment when AI contributes to consequential grading. Politecnico di Milano reserves assigning outcomes for academic staff (FA-0371, FA-0349). |
+| Transparency | 9 | 1 | Purdue frames syllabus disclosure as fairness to students at course outset. Lund pairs transparency with use-specific protection for student material (FA-0266, FA-0337). |
+| Equity and access | 6 | 3 | UCD connects fairness to limits on requiring tools it does not provide. Korea University frames equity as a general principle and separately limits reliance on detector output (FA-0259, FA-0327, FA-0328). |
+| Integrity and responsible use | 6 | 1 | Shanghai Jiao Tong's trial principles connect reliable and compliant use to validation and risk filing. Paris-Saclay links integrity to rules on using detector output (FA-0060, FA-0330). |
+| Privacy and rights | 5 | 1 | Yonsei pairs its data protection principle with a restriction on entering complete student work. Aalto links privacy and copyright directly to its approved systems restriction (FA-0304, FA-0270). |
+| Evaluation and innovation | 4 | 2 | NUS states why it requires prior deployment approval and what evidence is needed. UCT connects educational innovation to responsible implementation and continuing review (FA-0280, FA-0352). |
+| Workload and quality | 2 | 0 | ETH states workload reduction as a pilot purpose while preserving instructor responsibility. NUS requires evidence of tool accuracy and trustworthiness before approving deployment (FA-0090, FA-0255). |
+
+The three pioneers in this comparison are Aalto, Pontificia Universidad Católica de Chile and UCT. Aalto gives explicit privacy, copyright and access reasons for its conditions. UC Chile's principles pair transparency with responsibility for assessment judgment and limits on detectors. UCT's framework describes AI literacy, equity, human-centred education and review alongside disclosure and its Turnitin decision. These are three distinct institutional approaches with separate qualification records (FA-0270, FA-0272, FA-0273, FA-0274, FA-0352, FA-0353).
+
+The database now has 389 distinct IDs and 388 original-passage records. FA-0396 records Paris-Saclay's explicit student-notice sentence in the formative subsection. FA-0329 retains the separate certificative conditions, including approved tools, personal validation and criteria-based justification. Purdue FA-0266 and Duke FA-0371 have more precise locators. Edinburgh FA-0157 and full-document archival coverage remain open.
+
+Related Stanford rows remain traceable. FA-0335 corroborates FA-0020 and FA-0336 corroborates FA-0021. Count each pair once in comparisons of unique policy clauses.
