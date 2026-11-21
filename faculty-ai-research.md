@@ -38,3 +38,11 @@ The search ledger now contains a dated first-pass outcome for all 102 QS-ranked 
 - **Human control differs by activity.** Four sources cover different practices. Alberta's opt-in Canvas workflow can suggest points and requires instructor release (FA-0387). HKUST's course case describes instructor review and editing of proposed scores and feedback (FA-0390). Michigan's case uses model scores as a comparison baseline (FA-0376). Monash's teaching guidance addresses polishing examiner-authored comments (FA-0388).
 - **Academic integrity decisions.** Three current sources illustrate different approaches to reliability and fair process. McGill's Code rejects detector output as sole evidence (FA-0381). Sydney permits optional use with other evidence in an investigation (FA-0389). UWA reports a decision against using AI detectors (FA-0362). Institut Polytechnique de Paris's member school notice separately documents activation followed by temporary suspension (FA-0384).
 - **Pioneers outside the cutoff.** UCT's June 2025 framework records an implementation decision and its course study documents a regrade mechanism (FA-0352, FA-0353, FA-0354). Stellenbosch publishes a separate interim decision on detector evidence (FA-0355). Their joint assessment guidance and events are documented in the search ledger.
+
+## Verification of earlier findings
+
+Added original-source passages and locators to 92 existing finding IDs. The database retains 388 distinct findings and the verification table now covers 261. The remaining 127 retain their earlier citations and supporting paraphrases. Their original-source passages still need to be checked and entered.
+
+The source notes correct earlier wording in FA-0016. Brown’s report documents a request for student permission. It leaves the students’ response unstated. FA-0036 and FA-0180 link to the dated third version of the original NYU paper. FA-0143 separates the set of vetoed ETH scores that were independently rescored from the larger set of scores that includes unvetoed parts.
+
+Current original-source verification does not refresh archive status. Attempts to inspect existing Wayback replays for Cambridge, LSE, Bristol, Rutgers and CMU did not return replay text. Historical capture URLs and status fields are preserved. The dated excerpt file records the passages verified directly in this round.
