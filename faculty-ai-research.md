@@ -107,3 +107,13 @@ The three pioneers in this comparison are Aalto, Pontificia Universidad Católic
 The database now has 389 distinct IDs and 388 original-passage records. FA-0396 records Paris-Saclay's explicit student-notice sentence in the formative subsection. FA-0329 retains the separate certificative conditions, including approved tools, personal validation and criteria-based justification. Purdue FA-0266 and Duke FA-0371 have more precise locators. Edinburgh FA-0157 and full-document archival coverage remain open.
 
 Related Stanford rows remain traceable. FA-0335 corroborates FA-0020 and FA-0336 corroborates FA-0021. Count each pair once in comparisons of unique policy clauses.
+
+## Source and archive register
+
+The [archive register](faculty-ai-archive-register.csv) links 295 source URLs to their finding IDs and recorded versions. It removes URL fragments so page locators stay in the evidence table and repeated PDF links can be checked together.
+
+- 65 original URLs have historical replay links. The register preserves the earlier status and check dates.
+- 218 URLs have dated excerpts and no historically recorded replay for that URL.
+- 12 earlier URLs have neither a replay nor an excerpt attached to that exact URL. The register links any checked alternatives by finding ID. For example, the research paper cited at Southampton's repository is also available from its publisher. Edinburgh's May §8.6 remains unresolved across the attempted routes.
+
+A recorded replay linked to another edition does not establish that it covers the cited version. The register separates those links from replays recorded against the original URL.

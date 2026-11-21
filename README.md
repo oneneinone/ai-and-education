@@ -12,6 +12,7 @@ The current faculty database has **389 distinct finding IDs**, with original-sou
 | [Evidence](faculty-ai-evidence.csv) | Exact passages, translations, authority, scope and use conditions |
 | [Stated principles](faculty-ai-principles.csv) | Original-language purposes with practical findings and thematic grouping |
 | [Coverage](faculty-ai-coverage.csv) | Cohort, ties, Ivy membership and pioneer qualifications |
+| [Archive register](faculty-ai-archive-register.csv) | Historical replay links, dated excerpts and alternate source editions |
 | [Search ledger](faculty-ai-search-ledger.csv) | Sources searched, dated outcomes and unresolved follow-ups |
 | [Research comparison](faculty-ai-research.md) | Assessment tasks, decision authority and stated purposes |
 
