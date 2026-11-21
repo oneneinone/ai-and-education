@@ -46,3 +46,11 @@ Added original-source passages and locators to 92 existing finding IDs. The data
 The source notes correct earlier wording in FA-0016. Brown’s report documents a request for student permission. It leaves the students’ response unstated. FA-0036 and FA-0180 link to the dated third version of the original NYU paper. FA-0143 separates the set of vetoed ETH scores that were independently rescored from the larger set of scores that includes unvetoed parts.
 
 Current original-source verification does not refresh archive status. Attempts to inspect existing Wayback replays for Cambridge, LSE, Bristol, Rutgers and CMU did not return replay text. Historical capture URLs and status fields are preserved. The dated excerpt file records the passages verified directly in this round.
+
+## Further original-source verification
+
+Added passages and locators to 88 earlier IDs. The Auckland forum demonstration was already recorded as FA-0229. The duplicate ID FA-0367 from this research round was retired and is not reused. Its passage is now attached to FA-0229.
+
+Cambridge's full examiner section was readable in the current official index. Direct access and the earlier replay remain unresolved from this connection. Edinburgh's Registry scope text corroborates FA-0155, with the May appendix and §8.6 separately listed as unresolved. Source-version links and earlier capture history are retained.
+
+The Deakin policy establishes an authorization pathway for teaching with institutional information in public models (FA-0395). The database now has 388 distinct findings, including 349 with original passages.
